@@ -1,4 +1,4 @@
-# Hi there 👋 I'm LingangXiao
+# Hi there 👋 I'm Lingang Xiao
 
 ## I am a beginner of AI agent development
 
