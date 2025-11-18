@@ -1,8 +1,6 @@
 # Hi there 👋 I'm LingangXiao
 
-<p align="center">
-  <em>I am a beginner of AI agent development</em>
-</p>
+## I am a beginner of AI agent development
 
 ---
 
