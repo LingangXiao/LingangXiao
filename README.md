@@ -20,11 +20,9 @@
 ---
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agent-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+- 🐍 Python
+- 🔗 LangGraph  
+- 🤖 AI Agent Development
 
 ---
 
