@@ -1,6 +1,14 @@
-# Hi there 👋 I'm Lingang Xiao
+<div align="center">
+  
+# 👋 Hi there, I'm Lingang Xiao
 
-## I am a beginner of AI agent development
+### 🌱 AI Agent Development Beginner | Learning & Building
+
+[![Email](https://img.shields.io/badge/📧-xiaolingang@outlook.com-EA4335?style=flat-square)](mailto:xiaolingang@outlook.com)
+[![Location](https://img.shields.io/badge/📍-Beijing-blue?style=flat-square)](https://www.google.com/maps/place/Beijing)
+![Visitors](https://komarev.com/ghpvc/?username=LingangXiao&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
