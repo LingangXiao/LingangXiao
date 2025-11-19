@@ -12,19 +12,19 @@
 
 ---
 
-## 🎓 Education
+## 👨‍💻 About Me
 
-| Degree | Major | University |
-|--------|-------|------------|
-| 🎓 **Master's** | Software Engineering | Pennsylvania State University |
-| 🎓 **Bachelor's** | Computer Science | University of Iowa |
-
----
+🎓 **Education**
+- 🎓 **Master's Degree** - Software Engineering  
+  Pennsylvania State University
+- 🎓 **Bachelor's Degree** - Computer Science  
+  University of Iowa
 
 🐾🐾🐾
 - 🌭 I have a lovely Dachshund named **徐伦 (Jolyne)**
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
